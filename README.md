@@ -30,6 +30,10 @@ Each project focuses on simplicity while maintaining good coding practices, maki
    - Helps understand form handling, input validation, and UI basics
    - Ideal first project for beginners
 
+2. **HealthTrack - BMI Calculator
+   - To provide a simple, user-friendly interface for health tracking.         
+   - To categorize the calculated BMI into standard health classifications (Underweight, Normal, Overweight, Obese).
+   - The core of the project relies on the standard BMI formula. The application takes the user's weight (in kilograms) and height (in meters) to perform the calculation
 ---
 
 ## 🛠️ Future Projects (Coming Soon)

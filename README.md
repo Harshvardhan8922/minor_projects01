@@ -20,7 +20,7 @@ Each project focuses on simplicity while maintaining good coding practices, maki
 - Self-learners  
 - Anyone starting their journey in web or software development  
 
----
+---------------------------------------------------------------------------------------
 
 ## 📂 Projects List
 
@@ -29,12 +29,25 @@ Each project focuses on simplicity while maintaining good coding practices, maki
    - A simple and user-friendly login page
    - Helps understand form handling, input validation, and UI basics
    - Ideal first project for beginners
+   - you can find its code on index.html,index.css
 
 2. HealthTrack - BMI Calculator
    - To provide a simple, user-friendly interface for health tracking.         
    - To categorize the calculated BMI into standard health classifications (Underweight, Normal, Overweight, Obese).
-   - The core of the project relies on the standard BMI formula. The application takes the user's weight (in kilograms) and height (in meters) to perform the calculation
----
+   - The core of the project relies on the standard BMI formula. The application takes the user's weight (in kilograms) and height (in meters) to perform the calculation.
+   - you can find its code on index2.html,index2.css
+
+3. Registration form 
+  - The project is a fully responsive and interactive Registration Form, designed using HTML, CSS, and basic frontend concepts. It works smoothly across all devices including mobile, tablet, and desktop.
+  - It is built with a clean UI, modern layout, and beginner-friendly code structure.
+  - you can find its code on index3.html,index3.css
+  - ✨ Key Features
+📱 Fully Responsive Design (Mobile, Tablet & Desktop)
+🎨 Modern & Attractive UI
+🧩 Beginner-Friendly Code Structure
+🔒 Password & Confirm Password fields
+✔️ Declaration checkbox included
+-------------------------------------------------------------------------------------------
 
 ## 🛠️ Future Projects (Coming Soon)
 More projects will be added over time, including:
@@ -46,7 +59,7 @@ More projects will be added over time, including:
 
 📌 *This list will be updated as new projects are created.*
 
----
+-------------------------------------------------------------------------------------------
 
 ## 🧠 Learning Outcome
 By working on these projects, students will:

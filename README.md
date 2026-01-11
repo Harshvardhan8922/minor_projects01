@@ -47,6 +47,15 @@ Each project focuses on simplicity while maintaining good coding practices, maki
 🧩 Beginner-Friendly Code Structure
 🔒 Password & Confirm Password fields
 ✔️ Declaration checkbox included
+
+4. Beginner-Friendly Template
+  - The main goal of this project is to help **beginners** understand how a basic project structure works and how templates can speed up development.
+  - This project is ideal for students who are just starting their journey in **frontend development**.
+📌 Beginner-friendly project template  
+📱 Fully responsive design (works on mobile, tablet & desktop)  
+🎯 Clean and simple UI structure  
+🧠 Easy to understand code  
+♻️ Reusable for future projects  
 -------------------------------------------------------------------------------------------
 
 ## 🛠️ Future Projects (Coming Soon)

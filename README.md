@@ -51,11 +51,22 @@ Each project focuses on simplicity while maintaining good coding practices, maki
 4. Beginner-Friendly Template
   - The main goal of this project is to help **beginners** understand how a basic project structure works and how templates can speed up development.
   - This project is ideal for students who are just starting their journey in **frontend development**.
+  - - you can find its code on index4.html,index4.css
 📌 Beginner-friendly project template  
 📱 Fully responsive design (works on mobile, tablet & desktop)  
 🎯 Clean and simple UI structure  
 🧠 Easy to understand code  
 ♻️ Reusable for future projects  
+
+5. Landing Page 🌐
+  - A modern, fully responsive Landing Page built using HTML, CSS, and JavaScript.
+  - This project is specially designed for beginners and college students who are starting their journey in frontend  webdevelopment.
+  - - you can find its code on index5.html,index5.css,index5.js
+🧩 Clean and beginner-friendly code structure
+🎨 Attractive UI with proper layout and spacing
+⚡ Interactive elements using JavaScript
+🧠 Easy to understand for beginners
+🏫 Perfect minor project for college submissions
 -------------------------------------------------------------------------------------------
 
 ## 🛠️ Future Projects (Coming Soon)

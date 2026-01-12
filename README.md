@@ -61,7 +61,8 @@ Each project focuses on simplicity while maintaining good coding practices, maki
 5. Landing Page 🌐
   - A modern, fully responsive Landing Page built using HTML, CSS, and JavaScript.
   - This project is specially designed for beginners and college students who are starting their journey in frontend  webdevelopment.
-  - - you can find its code on index5.html,index5.css,index5.js
+  - you can find its code on index5.html,index5.css,index5.js
+  - the code file is fully designed using icons and emojies
 🧩 Clean and beginner-friendly code structure
 🎨 Attractive UI with proper layout and spacing
 ⚡ Interactive elements using JavaScript

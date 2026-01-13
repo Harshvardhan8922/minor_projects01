@@ -68,6 +68,7 @@ Each project focuses on simplicity while maintaining good coding practices, maki
 ⚡ Interactive elements using JavaScript
 🧠 Easy to understand for beginners
 🏫 Perfect minor project for college submissions
+project is finally going to ready with all details and iamges and etc and it looks like exactly same as landing page of flipkar.com
 -------------------------------------------------------------------------------------------
 
 ## 🛠️ Future Projects (Coming Soon)

@@ -67,7 +67,8 @@ Each project focuses on simplicity while maintaining good coding practices, maki
 🎨 Attractive UI with proper layout and spacing
 ⚡ Interactive elements using JavaScript
 🧠 Easy to understand for beginners
-🏫 Perfect minor project for college submissions
+🏫 Perfect minor project for college submissions.
+
 -------------------------------------------------------------------------------------------
 
 ## 🛠️ Future Projects (Coming Soon)

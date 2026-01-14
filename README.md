@@ -58,7 +58,7 @@ Each project focuses on simplicity while maintaining good coding practices, maki
 🧠 Easy to understand code  
 ♻️ Reusable for future projects  
 
-5. Landing Page 🌐
+5. Landing Page (Flipkart) 🌐
   - A modern, fully responsive Landing Page built using HTML, CSS, and JavaScript.
   - This project is specially designed for beginners and college students who are starting their journey in frontend  webdevelopment.
   - you can find its code on index5.html,index5.css,index5.js
@@ -68,6 +68,8 @@ Each project focuses on simplicity while maintaining good coding practices, maki
 ⚡ Interactive elements using JavaScript
 🧠 Easy to understand for beginners
 🏫 Perfect minor project for college submissions.
+
+6. Landing Page (Amazon) 🌐
 
 -------------------------------------------------------------------------------------------
 

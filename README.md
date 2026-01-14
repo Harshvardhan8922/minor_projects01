@@ -70,7 +70,14 @@ Each project focuses on simplicity while maintaining good coding practices, maki
 🏫 Perfect minor project for college submissions.
 
 6. Landing Page (Amazon) 🌐
-
+ - This is a frontend-based project developed using core web technologies.
+ - The main goal of this project is to strengthen fundamental concepts and provide hands-on practice for learners who are just starting their coding journey.
+ - you can find its code on index6.html,index6.css,index6.js
+🧩 Clean and beginner-friendly code structure
+🎨 Attractive UI with proper layout and spacing
+⚡ Interactive elements using JavaScript
+🧠 Easy to understand for beginners
+🏫 Perfect minor project for college submissions.
 -------------------------------------------------------------------------------------------
 
 ## 🛠️ Future Projects (Coming Soon)

@@ -1,4 +1,3 @@
-hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 # 🚀 Minor Programming Projects Collection
 
 ## 📌 About This Repository

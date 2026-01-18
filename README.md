@@ -1,6 +1,3 @@
-harsh vardhan mishra is author of this repo who have created this all
-
-
 # 🚀 Minor Programming Projects Collection
 
 ## 📌 About This Repository

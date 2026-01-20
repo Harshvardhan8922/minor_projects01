@@ -1,6 +1,3 @@
-hahafragajavs
-hagattsgavahayr
-harshsbagartab
 # 🚀 Minor Programming Projects Collection
 
 ## 📌 About This Repository

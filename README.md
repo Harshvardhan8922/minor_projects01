@@ -1,10 +1,3 @@
-
-hahzgzgtssb
-hagstsyjanavsgshajabgstzb hatstshabahhshs
-babagsthabavshdjatavav
-bahsgstabbabssbhddgg
-
-
 # 🚀 Minor Programming Projects Collection
 
 ## 📌 About This Repository

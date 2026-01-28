@@ -1,8 +1,3 @@
-hahagata
-ahgasathajabshsgatyaha
-jagatatshahahshh
-jagagshahjajaja
-jagagshahahahahah
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository

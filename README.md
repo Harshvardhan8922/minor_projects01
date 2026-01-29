@@ -1,6 +1,3 @@
-ajjzhshsnaa
-mabagshhshsja
-ambshshhshjaja
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository

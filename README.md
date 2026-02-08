@@ -1,6 +1,3 @@
-jahahssh
-nahansnsjsn
-jahhahahajan
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository

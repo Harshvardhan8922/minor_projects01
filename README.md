@@ -1,6 +1,3 @@
-anannana
-amnananana
-manajakkaka
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
